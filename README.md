@@ -3,7 +3,7 @@
 **Pressure-adjusted ratings of IPL and T20I batters and bowlers**
 Submission for the Rajasthan Royals **SupeRR Selector Season 2** hackathon (Round 1), by **Lohith L**.
 
-**Live site:** https://superr-selector-s2-lohith.vercel.app
+**Live site:** https://superr-selector-s2-lohithl2026.vercel.app
 
 ---
 
