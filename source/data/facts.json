@@ -1,0 +1,70 @@
+{
+ "matches": 784,
+ "ipl_matches": 356,
+ "t20i_matches": 428,
+ "deliveries": 187330,
+ "batters": 816,
+ "bowlers": 589,
+ "eligible_batters": 133,
+ "eligible_bowlers": 142,
+ "raw_deliveries": 200999,
+ "raw_matches": 867,
+ "dropped": {
+  "a_team": 30,
+  "dls": 38,
+  "no_result": 41,
+  "missing_innings": 38
+ },
+ "missing_final": 113,
+ "winning_chases": 390,
+ "extras_err": 2.5,
+ "extras_err_ignored": 5.2,
+ "wp_auc_chase": 0.887,
+ "wp_auc_inn1": 0.678,
+ "wp_brier_chase": 0.137,
+ "wp_brier_inn1": 0.226,
+ "hp_share": 0.25,
+ "min_hp_balls": 100,
+ "min_hp_innings": 12,
+ "shrink_k": 150,
+ "weights": {
+  "H": 0.65,
+  "A": 0.25,
+  "C": 0.1
+ },
+ "pred_validity": {
+  "bat": {
+   "Our pressure rating": 0.257,
+   "HP runs-above-expected only (no shrink to usual)": 0.217,
+   "Win-prob-added only": 0.137,
+   "Player's usual level (all-ball RAE)": 0.315,
+   "Naive death-over SR / economy": 0.132,
+   "__split_half_rating": 0.305,
+   "__n": 142.0
+  },
+  "bowl": {
+   "Our pressure rating": 0.194,
+   "HP runs-above-expected only (no shrink to usual)": 0.17,
+   "Win-prob-added only": 0.134,
+   "Player's usual level (all-ball RAE)": 0.193,
+   "Naive death-over SR / economy": 0.103,
+   "__split_half_rating": 0.24,
+   "__n": 153.0
+  }
+ },
+ "seasons": [
+  2022,
+  2023,
+  2024,
+  2025,
+  2026
+ ],
+ "thresholds": [
+  0.6,
+  0.67,
+  0.75,
+  0.8,
+  0.85,
+  0.9
+ ]
+}

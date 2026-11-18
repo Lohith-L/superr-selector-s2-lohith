@@ -1,0 +1,252 @@
+{
+ "bat": {
+  "50284": {
+   "k": 4,
+   "ranks": {
+    "IPL only": 1,
+    "T20I only": null,
+    "2022 to 2024": null,
+    "2025 to 2026": 2,
+    "Top 15% pressure": 3,
+    "Top 33% pressure": 1
+   }
+  },
+  "6281": {
+   "k": 6,
+   "ranks": {
+    "IPL only": 5,
+    "T20I only": 1,
+    "2022 to 2024": 9,
+    "2025 to 2026": 1,
+    "Top 15% pressure": 1,
+    "Top 33% pressure": 2
+   }
+  },
+  "25669": {
+   "k": 3,
+   "ranks": {
+    "IPL only": 2,
+    "T20I only": null,
+    "2022 to 2024": null,
+    "2025 to 2026": 4,
+    "Top 15% pressure": null,
+    "Top 33% pressure": 3
+   }
+  },
+  "6396": {
+   "k": 6,
+   "ranks": {
+    "IPL only": 6,
+    "T20I only": 2,
+    "2022 to 2024": 8,
+    "2025 to 2026": 6,
+    "Top 15% pressure": 2,
+    "Top 33% pressure": 5
+   }
+  },
+  "5553": {
+   "k": 6,
+   "ranks": {
+    "IPL only": 8,
+    "T20I only": 3,
+    "2022 to 2024": 1,
+    "2025 to 2026": 23,
+    "Top 15% pressure": 6,
+    "Top 33% pressure": 4
+   }
+  },
+  "7216": {
+   "k": 5,
+   "ranks": {
+    "IPL only": 4,
+    "T20I only": null,
+    "2022 to 2024": 5,
+    "2025 to 2026": 18,
+    "Top 15% pressure": 10,
+    "Top 33% pressure": 9
+   }
+  },
+  "1699": {
+   "k": 5,
+   "ranks": {
+    "IPL only": 13,
+    "T20I only": 5,
+    "2022 to 2024": 4,
+    "2025 to 2026": 40,
+    "Top 15% pressure": 5,
+    "Top 33% pressure": 7
+   }
+  },
+  "6280": {
+   "k": 4,
+   "ranks": {
+    "IPL only": null,
+    "T20I only": 4,
+    "2022 to 2024": 45,
+    "2025 to 2026": 7,
+    "Top 15% pressure": 4,
+    "Top 33% pressure": 17
+   }
+  },
+  "4260": {
+   "k": 3,
+   "ranks": {
+    "IPL only": 14,
+    "T20I only": null,
+    "2022 to 2024": 7,
+    "2025 to 2026": 27,
+    "Top 15% pressure": 31,
+    "Top 33% pressure": 18
+   }
+  },
+  "2367": {
+   "k": 5,
+   "ranks": {
+    "IPL only": 19,
+    "T20I only": 6,
+    "2022 to 2024": 2,
+    "2025 to 2026": 41,
+    "Top 15% pressure": 15,
+    "Top 33% pressure": 6
+   }
+  }
+ },
+ "bowl": {
+  "2933": {
+   "k": 6,
+   "ranks": {
+    "IPL only": 1,
+    "T20I only": 9,
+    "2022 to 2024": 2,
+    "2025 to 2026": 4,
+    "Top 15% pressure": 2,
+    "Top 33% pressure": 1
+   }
+  },
+  "781": {
+   "k": 5,
+   "ranks": {
+    "IPL only": 2,
+    "T20I only": null,
+    "2022 to 2024": 3,
+    "2025 to 2026": 7,
+    "Top 15% pressure": 1,
+    "Top 33% pressure": 5
+   }
+  },
+  "830": {
+   "k": 6,
+   "ranks": {
+    "IPL only": 7,
+    "T20I only": 6,
+    "2022 to 2024": 7,
+    "2025 to 2026": 8,
+    "Top 15% pressure": 6,
+    "Top 33% pressure": 6
+   }
+  },
+  "4658": {
+   "k": 4,
+   "ranks": {
+    "IPL only": null,
+    "T20I only": 3,
+    "2022 to 2024": null,
+    "2025 to 2026": 2,
+    "Top 15% pressure": 7,
+    "Top 33% pressure": 8
+   }
+  },
+  "8661": {
+   "k": 5,
+   "ranks": {
+    "IPL only": 3,
+    "T20I only": 23,
+    "2022 to 2024": 1,
+    "2025 to 2026": 52,
+    "Top 15% pressure": 4,
+    "Top 33% pressure": 4
+   }
+  },
+  "4219": {
+   "k": 5,
+   "ranks": {
+    "IPL only": 4,
+    "T20I only": null,
+    "2022 to 2024": 6,
+    "2025 to 2026": 18,
+    "Top 15% pressure": 5,
+    "Top 33% pressure": 3
+   }
+  },
+  "4692": {
+   "k": 5,
+   "ranks": {
+    "IPL only": 59,
+    "T20I only": 1,
+    "2022 to 2024": 13,
+    "2025 to 2026": 15,
+    "Top 15% pressure": 3,
+    "Top 33% pressure": 12
+   }
+  },
+  "3644": {
+   "k": 6,
+   "ranks": {
+    "IPL only": 11,
+    "T20I only": 11,
+    "2022 to 2024": 21,
+    "2025 to 2026": 10,
+    "Top 15% pressure": 14,
+    "Top 33% pressure": 14
+   }
+  },
+  "2984": {
+   "k": 5,
+   "ranks": {
+    "IPL only": null,
+    "T20I only": 10,
+    "2022 to 2024": 11,
+    "2025 to 2026": 22,
+    "Top 15% pressure": 17,
+    "Top 33% pressure": 11
+   }
+  },
+  "4373": {
+   "k": 4,
+   "ranks": {
+    "IPL only": 38,
+    "T20I only": 5,
+    "2022 to 2024": 49,
+    "2025 to 2026": 1,
+    "Top 15% pressure": 15,
+    "Top 33% pressure": 7
+   }
+  }
+ },
+ "lenses": [
+  "IPL only",
+  "T20I only",
+  "2022 to 2024",
+  "2025 to 2026",
+  "Top 15% pressure",
+  "Top 33% pressure"
+ ],
+ "kept": {
+  "bat": {
+   "IPL only": 6,
+   "T20I only": 6,
+   "2022 to 2024": 7,
+   "2025 to 2026": 5,
+   "Top 15% pressure": 7,
+   "Top 33% pressure": 8
+  },
+  "bowl": {
+   "IPL only": 5,
+   "T20I only": 6,
+   "2022 to 2024": 5,
+   "2025 to 2026": 6,
+   "Top 15% pressure": 7,
+   "Top 33% pressure": 7
+  }
+ }
+}
